@@ -9,6 +9,7 @@ Link to dataset : https://www.kaggle.com/datasets/einsteindata4u/covid19
    - Initial / Target visualization
    - Variable signification
    - More Detailed Analysis
+   - Initial hypothesis & Student test
    - Conclusions
 2. Data preprocessing
 3. Modeling
